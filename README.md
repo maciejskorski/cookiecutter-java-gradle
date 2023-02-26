@@ -1,6 +1,8 @@
+![tests status](https://github.com/maciejskorski/cookiecutter-java-gradle/actions/workflows/build_test.yaml/badge.svg)
+
 # Cookiecutter for Java + Gradle
 
-A cookiecutter template for modern Gradle (v8) builds of Java, with basic GitHub Actions for build-test.
+A cookiecutter template for modern Gradle (v8) builds of Java, with basic GitHub Actions for build-test. 
 
 ## Install and use
 
