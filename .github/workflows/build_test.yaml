@@ -16,8 +16,12 @@ jobs:
   build-test-project:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout project sources
+    - name: Checkout template sources
       uses: actions/checkout@v3
+    - name: Install cookiecutter
+      run: |
+        pip install cookiecutter
+        cookiecutter . --no-input
     - name: Set up JDK 19
       uses: actions/setup-java@v3
       with:
