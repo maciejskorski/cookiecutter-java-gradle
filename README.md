@@ -46,6 +46,6 @@ jobs:
 
 ## References
 
-1. [Gradle project](https://gradle.org/install/)
+1. [Gradle Wrapper](https://docs.gradle.org/current/userguide/gradle_wrapper.html/)
 2. [Gradle GitHub Action](https://github.com/marketplace/actions/gradle-build-action)
 3. [Older cookiecutter by @m-x-k](https://github.com/m-x-k/cookiecutter-java)
