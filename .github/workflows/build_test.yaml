@@ -32,4 +32,4 @@ jobs:
           build
           test
           --info
-        build-root-directory: simpleapp
+        build-root-directory: simple_java_project
