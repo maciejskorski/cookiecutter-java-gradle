@@ -2,6 +2,10 @@
 
 A cookiecutter template for modern Gradle (v8) builds of Java, with basic GitHub Actions for build-test.
 
+## Install
+
+Install `cookiecutter` and then run `cookiecutter https://github.com/maciejskorski/cookiecutter-java-gradle`.
+
 ## References
 
 1. [Gradle project](https://gradle.org/install/)
