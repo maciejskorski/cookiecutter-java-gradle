@@ -1,6 +1,6 @@
 # Cookiecutter for Java + Gradle
 
-A cookiecutter template for modern Gradle (v8) builds of Java.
+A cookiecutter template for modern Gradle (v8) builds of Java, with basic GitHub Actions for build-test.
 
 ## References
 
