@@ -37,7 +37,7 @@ jobs:
           build
           test
           --info
-        build-root-directory: {{your_app_name}}
+        build-root-directory: {{app_name}}
 ```
 
 
