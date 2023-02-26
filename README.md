@@ -1,2 +1,3 @@
-# cookiecutter-java-gradle
-A cookiecutter template for modern java gradle build
+# Cookiecutter for Java+Gradle
+
+A cookiecutter template for modern java gradle build.
